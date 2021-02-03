@@ -10,4 +10,5 @@ Thus, I created an interactive dashboard to showcase the metrics which can conve
 You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/atharva.tipre#!/
 
 Dashboard
-https://github.com/Atharva1309/Amazon-Shipping-Analytics/blob/main/Amazon%20Shipping%20Analytics%20Image.png
+
+![alt tag](http://file:///D:/Sem4/Data%20Viz/Tableau%20Project/Amazon%20Shipping%20Analytics%20Image.png)
